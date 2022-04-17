@@ -1,0 +1,8 @@
+ .swiper-button-next,
+  .swiper-button-prev{
+  top: initial;
+  bottom: 1rem;
+  }
+
+
+add this in the media query 
